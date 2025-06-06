@@ -163,7 +163,7 @@ This project is open-sourced software licensed under the [MIT license](LICENSE).
 
 - GitHub: [@JuanBueno-coder](https://github.com/JuanBueno-coder)
 - LinkedIn: [Juan Antonio Bueno Rodríguez](https://www.linkedin.com/in/juan-antonio-bueno-4b823b236/)
-- Email: your.email@example.com
+- Email: juanbuenor95dh@gmail.com
 
 ---
 
