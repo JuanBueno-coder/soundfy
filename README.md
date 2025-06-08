@@ -106,8 +106,8 @@ php artisan test
 - [x] Project setup & architecture
 - [x] Database design & migrations
 - [x] Basic Laravel configuration
-- [ ] Core models & relationships
-- [ ] Authentication system
+- [x] Core models & relationships
+- [x] Authentication system
 
 ### Phase 2: Core Features
 - [ ] User registration & authentication
